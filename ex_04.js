@@ -1,0 +1,7 @@
+displayThisText (typeof x)
+displayThisText (typeof false)
+displayThisText (typeof 14)
+displayThisText (typeof 34n)
+displayThisText (typeof Symbol())
+displayThisText (typeof null)
+displayThisText (typeof $)
